@@ -66,7 +66,7 @@ console.log(chalk`{bold.green
   Ξ TITLE  : [⚡] My Instagram Priv8 Tools [⚡]
   Ξ UPDATE : 12:24 PM 4/12/2019
   Ξ AUTHOR : Noval Rahadian
-  Ξ FILES  : https://github.com/mcakz/tools-ig}
+  Ξ FILES  : https://github.com/mcakz/instagram-tools}
 
 {bold.yellow  ——————————————————  [THANKS TO]  ————————————————————
   [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
