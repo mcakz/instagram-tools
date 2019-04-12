@@ -20,7 +20,7 @@
 
 
 ## Installation
-	* git clone https://github.com/mcakz/tools-ig.git
+	* git clone https://github.com/mcakz/instagram-tools
 	* cd tools-ig
 	* unzip node_modules.zip
 	* node index.js
